@@ -3,5 +3,7 @@ Demostraciones y pruebas hechas en clase o referentes al Modulo 20480 Programmin
 
 Carpetas en este repositorio:
 
+- CSS3 - 20200917 - Pruebas en clase
+  - Pruebas de Hoisting y de función arrow con forEach() sobre matriz.
 - CSS3 - 20200924 - Pruebas en clase
   - Pruebas hechas en clase sobre estilos de textos: ajustes y wrapping, sombras, espaciado, columnas.
